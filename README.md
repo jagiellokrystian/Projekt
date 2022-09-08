@@ -1,1 +1,1 @@
-# Projekt ns programowanie obiektowe i strukturalne ZSE
+# Projekt na programowanie obiektowe i strukturalne ZSE
